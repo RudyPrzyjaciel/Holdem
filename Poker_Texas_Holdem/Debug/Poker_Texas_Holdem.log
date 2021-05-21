@@ -1,0 +1,5 @@
+﻿  Poker_Texas_Holdem.cpp
+  Talia.cpp
+C:\Users\ADMIN\projects\cpp\Poker_Texas_Holdem\Poker_Texas_Holdem\Talia.cpp(50,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Poker_Texas_Holdem.vcxproj -> C:\Users\ADMIN\projects\cpp\Poker_Texas_Holdem\Debug\Poker_Texas_Holdem.exe
