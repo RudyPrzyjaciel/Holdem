@@ -4,6 +4,10 @@
 int main()
 {
     std::cout << "Hello Texas Holdem!" << std::endl;
-    helloTalia();
+
+    Talia talia;
+
+    talia.printMap();
+
     return 0;
 }
